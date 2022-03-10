@@ -9,10 +9,9 @@ Edward Johnston’s legendary hand-lettered forms, which are perhaps the height 
 ## Nomenclature
 The name of the typeface is taken from London’s Farringdon Station, which is home to a beautiful memorial to Mr Johnston, consisting of large quasi-punches illustrating the magnificence of his lettering.
 
-<p><figure>
+<p>
 <img   align="center"
-src="farringdon-station.png" alt="farringdon station" width="700"/><figcaption>Credit: Flickr User ‘diamond geezer’</figcaption>
-</figure>
+src="farringdon-station.jpg" alt="farringdon station" width="700"/>*Credit: Flickr User ‘diamond geezer’*
 </p>
 ## Licence
 Mr Moye released his original design as ‘freeware’ without specifying the licence, but allowing all uses (such was the earlier Internet).  As Mr Moye did not restrict the future re-licensing of the typeface, I am relicensing it under the Open Font Licence, which allows for the free distribution, modification, and unlimited and unrestricted use of these fonts, which will keep them free and open while also providing legal certainty.
